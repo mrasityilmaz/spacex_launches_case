@@ -1,5 +1,6 @@
 # spacex_launches_case
 
+![ss](https://github.com/mrasityilmaz/spacex_launches_case/blob/main/preview.png)
 ## Space X tarafından sağlanan son fırlatmaları ve detaylarını listeler.
 
 ![Simulator Screen Shot - iPhone 13 mini - 2022-09-15 at 11 34 21](https://user-images.githubusercontent.com/81583706/190358755-5379de23-9c17-4ded-8499-77a13ab2d684.png)
